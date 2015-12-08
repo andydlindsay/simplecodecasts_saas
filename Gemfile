@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# Devise gem
+gem 'devise', '3.4.1'
 
 ruby '2.2.1'
 
